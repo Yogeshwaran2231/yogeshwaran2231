@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Yogeshwaran 👋
 
-<!--
-**Yogeshwaran2231/yogeshwaran2231** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+🎓 Computer Science Engineering Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning:
+- SAP ABAP
+- SAP RAP
+- CDS Views
+- SAP Fiori
+- OData Services
+
+💡 Interested in enterprise application development with SAP technologies.
+
+## Skills
+
+- ABAP
+- SAP RAP
+- CDS Views
+- OData
+- SQL
+- Java
+- Python
+
+## Projects
+
+- College Placement Management System (SAP RAP)
+- Sales Order Management System
+- Library Management System
+- Vehicle Maintenance System
+
+## Connect with Me
+
+- LinkedIn: (www.linkedin.com/in/yogeshwaran-s-66a56a2a)
+- Email: (yogeshwaran22312939@gmail.com)
