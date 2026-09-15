@@ -21,14 +21,12 @@
 - OData
 - SQL
 - Java
-- Python
+  
 
 ## Projects
 
 - College Placement Management System (SAP RAP)
-- Sales Order Management System
-- Library Management System
-- Vehicle Maintenance System
+- Ventnor invoice processing and fraud detection System
 
 ## Connect with Me
 
