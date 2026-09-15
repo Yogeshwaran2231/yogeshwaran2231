@@ -27,6 +27,7 @@
 
 - College Placement Management System (SAP RAP)
 - Ventnor invoice processing and fraud detection System
+- Smart Classroom and Timetable Scheduler 
 
 ## Connect with Me
 
